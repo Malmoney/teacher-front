@@ -4,7 +4,7 @@
     <el-row>
         <el-col :span="12">
             <div class="funModule bg-red" @click="goPath('/files')">
-                <img src="../static/images/files_main.png" alt=""> <br>
+                <img src="https://buyi-teacher.oss-cn-beijing.aliyuncs.com/static/images/files_main.png" alt=""> <br>
                 <span>文件采集</span>
             </div>
         </el-col>
